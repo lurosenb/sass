@@ -1,0 +1,4 @@
+# python > 3.6 (3.8)
+pandas
+numpy
+google-api-python-client
