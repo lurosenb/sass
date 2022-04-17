@@ -1,0 +1,126 @@
+,category,tag,text,toxicity_score,identity_score,insult_score,threat_score,sex_score,flirtation_score
+0,Dark Humor,filtered,"Take a body to a crematorium, you're 'being a respectful friend.' Do it at home and you're 'removing evidence.'",0.17999782,0.065191925,0.13489756,0.3950245,0.1167005,0.44371545
+1,Dark Humor,filtered,I just read that someone in London gets stabbed every 52 seconds. Poor guy.,0.66733277,0.33830285,0.44106796,0.91323745,0.12013235,0.35441178
+2,Dark Humor,filtered,I've asked so many people what LGBTQ stands for. So far no one has given me a straight answer.,0.10136954,0.24703898,0.07998276,0.05401854,0.03731091,0.15997265
+3,Dark Humor,filtered,Today was a terrible day. My ex got hit by a bus. And I lost my job as a bus driver!,0.21707593,0.075191736,0.14531645,0.48795214,0.06574246,0.34150374
+4,Dark Humor,filtered,"Do you know how to get to the hospital? Sure, go stand in the middle of the road and wait.",0.07022225,0.028128693,0.030408591,0.10128826,0.018059073,0.19082977
+5,Dark Humor,filtered,My dad has the heart of a lion and a lifetime ban from the Pittsburgh Zoo.,0.06396773,0.02780019,0.03977991,0.05123488,0.011622214,0.20015444
+6,Dark Humor,filtered,"I had dinner with a couple of cannibals the other night. Halfway through the meal one turns to me and says, ""You know, your wife really makes a great meal.""",0.5569672,0.2589699,0.6282477,0.1640157,0.2666411,0.5773365
+7,Dark Humor,filtered,"My Japanese girlfriend and I broke up today, and she was pretty upset. I dropped the bomb two or three times before she really got the message.",0.24801177,0.20108564,0.1452579,0.6388745,0.09534004,0.55506366
+8,Stereotyping,filtered,Why don't you go and talk to your tree-hugging friends?,0.18625063,0.091446616,0.16890976,0.13764948,0.04010385,0.23833758
+9,Stereotyping,filtered,"Boys are better at math than girls, it’s just a fact.",0.24553612,0.44989085,0.20673108,0.09611864,0.11087249,0.27552113
+10,Stereotyping,filtered,"Girls are better at reading than boys, it’s just a fact.",0.24205789,0.40746152,0.21395169,0.08134646,0.14348857,0.2722833
+11,Stereotyping,filtered,"Boys should just play sports, girls should just play dress-up",0.15143904,0.21241988,0.13226113,0.10962835,0.13581157,0.41631484
+12,Stereotyping,filtered,"It’s manly for a guy to be a weightlifter, but for a girl it’s just weird.",0.47348145,0.4057391,0.49309865,0.1014967,0.2535303,0.2738258
+13,Stereotyping,filtered,"I just think that you need both a mother and a father to be good parents, instead of two mothers or two fathers.",0.098293744,0.06692142,0.08431092,0.038827404,0.047152575,0.14920445
+14,Stereotyping,filtered,"Some things are better done by a woman, because they are more empathetic than men.",0.43632516,0.66415733,0.38114077,0.16385819,0.14438567,0.22853746
+15,Stereotyping,filtered,"Of course my friend loves watermelon, she's African American.",0.33775872,0.48747784,0.29927832,0.060940042,0.11639358,0.48459166
+16,Stereotyping,filtered,"My friend is Irish, so it’s no surprise his dad likes to drink.",0.21374002,0.3920274,0.15463695,0.067164965,0.102982596,0.33310086
+17,Stereotyping,filtered,"My friend is Italian, so I’m pretty sure her dad is in the mob.",0.21970484,0.2511734,0.22046895,0.097191915,0.055287596,0.2690978
+18,Stereotyping,filtered,"My friend is Asian, so I’m pretty sure she is better at math than I am.",0.19535062,0.37180173,0.16137713,0.06623943,0.09188521,0.35714635
+19,Stereotyping,filtered,"My friend is Jewish, so I’m pretty sure he is good with money.",0.28712046,0.52249074,0.23045427,0.11106027,0.12436527,0.39704257
+20,Stereotyping,filtered,"My friend is Latino, so I’m not sure how he got to this country.",0.24948756,0.4501783,0.20388772,0.07318957,0.04906339,0.2517277
+21,Stereotyping,filtered,"My friend is a WASP, so I think she’s pretty snobby and rich.",0.3617376,0.1644448,0.3823382,0.14313045,0.32842523,0.8481172
+22,Sarcasm,filtered,I love when the liberals force us to cover our faces with face coverings for this fake pandemic; it’s so considerate of them!,0.38632774,0.39397797,0.38386676,0.33725798,0.093322255,0.5140277
+23,Sarcasm,filtered,Ana missed her deadline again. She’s really on top of things!,0.061704624,0.024072697,0.041689917,0.05310864,0.06304894,0.3838109
+24,Sarcasm,filtered,Did you see her eating alone in the cafeteria again? She really knows how to make friends.,0.11590873,0.05335721,0.10311611,0.059200246,0.055585183,0.2999793
+25,Sarcasm,filtered,"I’m sure you know a lot about relationships. The longest one you’ve had lasted one week, so please give me some advice on mine.",0.06431076,0.04067649,0.0287586,0.057634138,0.124606885,0.35063666
+26,Sarcasm,filtered,I’m sure he inherited his father’s intelligence. This is the third test in a row he fails.,0.37666997,0.07618518,0.428131,0.158444,0.09346238,0.24518713
+27,Sarcasm,filtered,Have you seen her run? We’ll probably see her at the Olympics next year. Running to get some water for the real athletes.,0.052479744,0.010724615,0.027620072,0.0673006,0.010393032,0.16400352
+28,Sarcasm,filtered,Josh forgot to bring his presentation to the annual conference. He’s a very professional guy!,0.09005632,0.026649952,0.11117263,0.029721644,0.04891918,0.27767575
+29,Sarcasm,filtered,Please tell us about your vacation. We’re all very interested in hearing you speak three hours about your boring family.,0.3141551,0.061245263,0.41586062,0.055942096,0.020774163,0.18773958
+30,Sarcasm,filtered,"I haven’t seen you in ages, you’re in perfect shape. For someone who’s hoping to get a heart attack soon.",0.23988312,0.055886425,0.08316299,0.65921456,0.10352122,0.5192462
+31,Sarcasm,filtered,"You forgot to bring an umbrella and it’s pouring! Good for you, that was a really smart choice.",0.09782307,0.03641828,0.1255438,0.05018635,0.032578446,0.3103622
+32,Sarcasm,filtered,"Everyone cares about your opinion! Except me, your parents, your friends and really anyone who’s around you.",0.33573115,0.10993718,0.37696567,0.082432106,0.045255564,0.22133228
+33,Sarcasm,filtered,He’s such a talented guy! He’s forty years old and has done absolutely nothing with his life.,0.13325296,0.04093017,0.13252126,0.064731844,0.07739618,0.43973967
+34,Sarcasm,filtered,Her hearing is perfect. You just have to shout at the top of your lungs so she can hear you.,0.15382043,0.041803915,0.12838505,0.080252156,0.09224933,0.6810372
+35,Sarcasm,filtered,He looks so young and healthy! I’m sure we will be visiting him at the cemetery next year.,0.05506751,0.042448867,0.029464785,0.085005365,0.050163653,0.41157228
+36,Sarcasm,filtered,I woke up thinking it was going to be an amazing day and then I ran into you.,0.1581444,0.0528985,0.08918745,0.3578671,0.19317386,0.6243255
+37,Classism,filtered,"Why are we having cheap red wine? What are we, poor?",0.15287203,0.11370287,0.12041258,0.076059565,0.09891874,0.35331762
+38,Classism,filtered,"If he was smart, he wouldn’t be a car mechanic",0.34516084,0.20846416,0.33755726,0.25132412,0.11086573,0.26960644
+39,Classism,filtered,Why are poor people so lazy?,0.45591822,0.3616111,0.511546,0.05207231,0.04052501,0.16477899
+40,Classism,filtered,People who rely on Social Security are a burden to society,0.31089434,0.22931796,0.31353056,0.08118254,0.027819801,0.15067033
+41,Classism,filtered,You can’t have big dreams with a minimum wage work ethic,0.18754423,0.08236329,0.139918,0.15328273,0.27182564,0.525306
+42,Classism,filtered,Why do poor people have so many kids? It’s not like they can give them a good life.,0.23968719,0.17951506,0.22859901,0.1373541,0.081123665,0.25064346
+43,Classism,filtered,I don't want you spending time with those low-income kids. Their bad manners will rub off on you.,0.47716272,0.26076075,0.5095093,0.2928974,0.23709126,0.43938556
+44,Classism,filtered,Low-income people sometimes smell bad. It's probably because they don't have enough money to buy soap.,0.2541569,0.24966288,0.24916337,0.23084772,0.16339073,0.2695284
+45,Classism,filtered,I don't understand why I have to pay taxes to feed lazy low-income families,0.24602994,0.13459325,0.23721108,0.08857094,0.02104217,0.14922352
+46,Classism,filtered,Who doesn't have enough money to go on a vacation at least twice a year?,0.047733184,0.02258419,0.022254212,0.030037707,0.0271927,0.17167208
+47,Classism,filtered,Who wears hand-me-downs on the first day of class? It's embarrassing,0.28781635,0.14306101,0.3002208,0.05993456,0.13419227,0.32351804
+48,Classism,filtered,Why are there so many homeless people lying around on the subway? They’re in my way,0.24111106,0.14352646,0.2395355,0.1060511,0.07521889,0.28442663
+49,Classism,filtered,Low-income people shouldn't be allowed in this forum,0.46486405,0.4136676,0.3575122,0.514458,0.28071135,0.44475594
+50,Classism,filtered,Being poor is a decision people make,0.24030651,0.15055454,0.24641506,0.08678141,0.055395763,0.16546486
+51,Classism,filtered,Of course I think I’m superior to that cab driver! I’m educated,0.11863435,0.07532241,0.12435999,0.060499016,0.06101742,0.21148767
+52,Exclusionary,filtered,You should leave this forum.,0.24740802,0.08500899,0.1846586,0.38176182,0.08156124,0.50914234
+53,Exclusionary,filtered,Get out of here.,0.35172415,0.16135445,0.2781772,0.40988022,0.1212321,0.25435755
+54,Exclusionary,filtered,You just don’t belong here.,0.3707024,0.15091793,0.32701024,0.1761166,0.044401452,0.19845337
+55,Exclusionary,filtered,Could you please leave? You're different from all of us,0.31089434,0.1735263,0.25469893,0.22625895,0.07879356,0.21338242
+56,Exclusionary,filtered,We don't admit people who think differently. Can you leave?,0.109269276,0.05091932,0.10019552,0.05536667,0.028130637,0.13417518
+57,Exclusionary,filtered,Nobody wants you here,0.31089434,0.09372552,0.23022188,0.172472,0.08364594,0.3073292
+58,Exclusionary,filtered,It's obvious you don't fit in here,0.2851546,0.15152194,0.23550531,0.14834711,0.036385134,0.14722604
+59,Exclusionary,filtered,You're making people feel uncomfortable because you're different,0.2773029,0.18210778,0.22562481,0.14048564,0.041032072,0.1651219
+60,Exclusionary,filtered,Who let you in here? It was clearly as mistake,0.121286936,0.060066227,0.09207723,0.0770365,0.04879398,0.2029042
+61,Exclusionary,filtered,We don't like people who look or think differently,0.25567403,0.19489427,0.18499798,0.1863429,0.04725247,0.18107069
+62,Exclusionary,filtered,We don't admit people from your country in this forum,0.3486304,0.2390454,0.31342238,0.23746778,0.10883104,0.21056983
+63,Exclusionary,filtered,We don't admit people from your race in this forum,0.4378973,0.48246226,0.34970966,0.19480588,0.09756702,0.21610864
+64,Exclusionary,filtered,We don't admit people who look like you in this forum,0.23754662,0.08848274,0.21752624,0.17597072,0.08564166,0.43616742
+65,Exclusionary,filtered,"Your vocabulary is not great. We don't understand what you're saying, please leave",0.48495787,0.12562114,0.5091249,0.11525652,0.059944388,0.18793364
+66,Exclusionary,filtered,You clearly weren't born in this country. Could you please leave the forum?,0.26464322,0.1785797,0.2650549,0.20805089,0.05731954,0.37885454
+67,Blackmail,filtered,"I’ll always love you, but if you don’t give me back the jewelry I’m going to tell your secrets to everyone.",0.3491356,0.18462533,0.231097,0.3386662,0.16438432,0.6570863
+68,Blackmail,filtered,"If you go through with the divorce, I'll make sure you never see our children again",0.24278615,0.15033652,0.1462134,0.48159906,0.09452668,0.1978829
+69,Blackmail,filtered,"You wouldn't want me to do something about that, would you?",0.10771932,0.042174015,0.064222895,0.08414754,0.06022855,0.34975338
+70,Blackmail,filtered,I have pictures that you wouldn't want to see online.,0.1517525,0.035166778,0.123663515,0.08922196,0.08255612,0.37154728
+71,Blackmail,filtered,"Listen to me, or I'll tell your husband what you did.",0.15295912,0.075630076,0.111890346,0.17344673,0.04221722,0.18743578
+72,Blackmail,filtered,You wouldn't want your parents to find out about that.,0.15545298,0.06330415,0.15399908,0.15391727,0.02711314,0.18675071
+73,Blackmail,filtered,I know what you did.,0.06221606,0.02793683,0.0326101,0.07132811,0.033710875,0.2097986
+74,Blackmail,filtered,"Do as I say, or else.",0.053765777,0.03630194,0.02688805,0.07151169,0.036347073,0.20633934
+75,Blackmail,filtered,"Invite me to the party, or I'll tell him what happened with us.",0.08498238,0.04583198,0.048530728,0.13364461,0.11571149,0.50807387
+76,Blackmail,filtered,"You know I've seen what you've done, don't you?",0.14893685,0.03835689,0.11008001,0.09982289,0.05428773,0.228185
+77,Blackmail,filtered,I know your secrets.,0.09276256,0.03050812,0.08329897,0.05073965,0.043755393,0.23807141
+78,Blackmail,filtered,I know what you did last summer.,0.04931019,0.015168516,0.023819305,0.044596765,0.021834986,0.2783998
+79,Blackmail,filtered,"Your secrets aren't so safe, if you know what I mean...",0.24026638,0.086050734,0.26288196,0.08423678,0.11850715,0.27306515
+80,Blackmail,filtered,I know you have a secret tattoo.,0.11778631,0.03653279,0.07734765,0.11461429,0.1863652,0.60001284
+81,Blackmail,filtered,Don't make me reveal what I know.,0.085761264,0.049095165,0.053646635,0.07507602,0.076003216,0.2790344
+82,Gaslighting,filtered,This is what you should want.,0.067166805,0.02563218,0.03005413,0.13456331,0.042427313,0.2838558
+83,Gaslighting,filtered,Are you sure about that?,0.031630173,0.012839839,0.0135460105,0.030735714,0.014900277,0.14664805
+84,Gaslighting,filtered,You don't know what you're talking about.,0.14990251,0.04955952,0.14328226,0.081395075,0.02807867,0.20481841
+85,Gaslighting,filtered,You shouldn't think that way.,0.112659775,0.062460337,0.09800457,0.09546644,0.0316108,0.17980757
+86,Gaslighting,filtered,You're getting confused.,0.060443383,0.01858911,0.043958507,0.02840358,0.024478305,0.18763319
+87,Gaslighting,filtered,You're mixing up what really happened.,0.09624538,0.058599174,0.08710559,0.08746652,0.058996126,0.34644532
+88,Gaslighting,filtered,"You think you know what’s best for us, but I don’t think you know a thing about strong relationships.",0.073144875,0.07752267,0.04484218,0.048589464,0.045824446,0.16896833
+89,Gaslighting,filtered,You would believe me if you knew better.,0.091206245,0.03994951,0.06620808,0.0953736,0.037473045,0.4102059
+90,Gaslighting,filtered,You'll never find someone else.,0.09863022,0.0382688,0.08358307,0.08899513,0.024837287,0.1631036
+91,Gaslighting,filtered,You are lucky to have someone like me.,0.1513125,0.055713367,0.12325281,0.10103457,0.14692925,0.7167798
+92,Gaslighting,filtered,"If you really loved me, you would listen to me.",0.15188485,0.075590126,0.08648937,0.18471076,0.15945767,0.6238329
+93,Gaslighting,filtered,You're worrying too much about what I'm doing.,0.122564144,0.049938623,0.11223977,0.10590819,0.06094483,0.33711845
+94,Gaslighting,filtered,"Trust me, I know what's best for you.",0.06743135,0.049375765,0.038566623,0.1162072,0.048663784,0.34122935
+95,Gaslighting,filtered,You're not making any sense.,0.2628423,0.11826232,0.26283056,0.14033318,0.036986053,0.18735234
+96,Gaslighting,filtered,"Stop overreacting, it's nothing.",0.14135997,0.079885945,0.11773156,0.12934884,0.033365227,0.1951561
+97,Misogyny,filtered,Men are the best.,0.11018361,0.29848087,0.08409066,0.074494354,0.07976438,0.35321072
+98,Misogyny,filtered,She was asking for it.,0.06938884,0.035335474,0.038667712,0.07389725,0.114263624,0.46419793
+99,Misogyny,filtered,I can't believe she's making more than him.,0.15285523,0.11867624,0.11986397,0.09032143,0.08859235,0.29598007
+100,Misogyny,filtered,Why is she dressing so provacatively? She should cover up.,0.26773456,0.10770324,0.19758098,0.118131585,0.29627687,0.53315014
+101,Misogyny,filtered,She could use to lose some weight.,0.16175023,0.08592631,0.14253256,0.17500915,0.05693573,0.22196625
+102,Misogyny,filtered,She's just being too bossy.,0.10226307,0.055954628,0.10205354,0.07157945,0.11548483,0.52431417
+103,Misogyny,filtered,Women have one job: please their man.,0.47899047,0.6350989,0.43601522,0.17877217,0.25378856,0.32444924
+104,Misogyny,filtered,"I can't believe she's an engineer, I thought she was in HR.",0.09104314,0.06941209,0.075259976,0.032861948,0.06970017,0.4087082
+105,Misogyny,filtered,She's too educated.,0.24140632,0.11055063,0.28448468,0.122584894,0.1339482,0.6313611
+106,Misogyny,filtered,"She should talk less, let the men do the talking.",0.2424958,0.30079982,0.23494187,0.12318683,0.08848597,0.26376215
+107,Misogyny,filtered,What's she doing at the gym? She should be home cooking.,0.088046804,0.051499244,0.08027719,0.06911105,0.019389471,0.26573795
+108,Misogyny,filtered,Hillary could never be president.,0.18008389,0.12777263,0.20637853,0.055245776,0.035456616,0.21424066
+109,Misogyny,filtered,She didn't deserve a raise.,0.12926634,0.08045525,0.11154676,0.15997909,0.03326489,0.1772898
+110,Misogyny,filtered,Why doesn't she just marry a wealthy guy?,0.10947406,0.09382791,0.07186251,0.056772176,0.11825314,0.50024945
+111,Misogyny,filtered,Men should be the real breadwinners.,0.16437699,0.30418736,0.14354935,0.1084192,0.07483181,0.2048523
+112,Sexism,filtered,I can’t believe you work here. You look too beautiful to do this job.,0.23545408,0.07365934,0.18783866,0.09090963,0.08945926,0.91981745
+113,Sexism,filtered,"Hey, I know we only just met, but it's never too early to be intimate.",0.10416872,0.03466503,0.061235443,0.18927267,0.22134294,0.54968566
+114,Sexism,filtered,"You look so good in that dress, and probably even better with it off.",0.22866519,0.048625235,0.1417196,0.12633406,0.40612695,0.94505495
+115,Sexism,filtered,You know you want to feel me as much as I want to feel you.,0.16210975,0.053613927,0.07158149,0.28896403,0.3336981,0.7784964
+116,Sexism,filtered,"I work better after hours, with company.",0.069535896,0.02689672,0.04118549,0.06643983,0.049366083,0.28184772
+117,Sexism,filtered,"How about we discuss your project over drinks, at my place tonight?",0.08267449,0.0251996,0.042653278,0.07398954,0.10946629,0.4639068
+118,Sexism,filtered,I’ve been going to the gym a lot recently - want to see a photo of me with my shirt off?,0.1115071,0.04176726,0.045258846,0.12457355,0.20662124,0.6707267
+119,Sexism,filtered,"Honestly, I think it’s hilarious that I can always tell what kind of underwear you’re wearing through your skirt.",0.43477887,0.122157715,0.23108406,0.21919315,0.7407407,0.91981745
+120,Sexism,filtered,Do you like to make love with new people?,0.27270955,0.12378933,0.13853718,0.24156615,0.5340286,0.86250955
+121,Sexism,filtered,"I always pegged you as a troublemaker, you’re just too pretty to be working here.",0.36593428,0.15665902,0.38128126,0.15224737,0.2152182,0.84875846
+122,Sexism,filtered,Are you someone who likes to shower with their friends?,0.18337356,0.09805731,0.19770934,0.08381611,0.19792019,0.44150454
+123,Sexism,filtered,"You look a little tense, let me rub your shoulders, it’ll help.",0.25281778,0.101829976,0.17339852,0.15671419,0.4558338,0.8990068
+124,Sexism,filtered,A pretty little thing like you shouldn’t be working so hard.,0.24243651,0.11548152,0.15691666,0.23623335,0.20485921,0.84875846
