@@ -28,7 +28,7 @@ Stereotyping	filtered	My friend is Asian, so I’m pretty sure she is better at 
 Stereotyping	filtered	My friend is Jewish, so I’m pretty sure he is good with money.
 Stereotyping	filtered	My friend is Latino, so I’m not sure how he got to this country.
 Stereotyping	filtered	My friend is a WASP, so I think she’s pretty snobby and rich.
-Stereotyping	filtered	
+Stereotyping	filtered	Boys shouldn't cry.
 Sarcasm	filtered	I love when the liberals force us to cover our faces with face coverings for this fake pandemic; it’s so considerate of them!
 Sarcasm	filtered	Ana missed her deadline again. She’s really on top of things!
 Sarcasm	filtered	Did you see her eating alone in the cafeteria again? She really knows how to make friends.
@@ -119,22 +119,22 @@ Misogyny	filtered	Hillary could never be president.
 Misogyny	filtered	She didn't deserve a raise.
 Misogyny	filtered	Why doesn't she just marry a wealthy guy?
 Misogyny	filtered	Men should be the real breadwinners.
-Sexism	filtered	I can’t believe you work here. You look too beautiful to do this job.
-Sexism	filtered	Hey, I know we only just met, but it's never too early to be intimate.
-Sexism	filtered	You look so good in that dress, and probably even better with it off.
-Sexism	filtered	You know you want to feel me as much as I want to feel you.
-Sexism	filtered	I work better after hours, with company.
-Sexism	filtered	How about we discuss your project over drinks, at my place tonight?
-Sexism	filtered	I’ve been going to the gym a lot recently - want to see a photo of me with my shirt off?
-Sexism	filtered	Honestly, I think it’s hilarious that I can always tell what kind of underwear you’re wearing through your skirt.
-Sexism	filtered	Do you like to make love with new people?
-Sexism	filtered	I always pegged you as a troublemaker, you’re just too pretty to be working here.
-Sexism	filtered	Are you someone who likes to shower with their friends?
-Sexism	filtered	You look a little tense, let me rub your shoulders, it’ll help.
-Sexism	filtered	A pretty little thing like you shouldn’t be working so hard.
-Sexism	filtered	
-Sexism	filtered	
-False Positive	filtered	
+Sexual Harassment 	filtered	I can’t believe you work here. You look too beautiful to do this job.
+Sexual Harassment 	filtered	Hey, I know we only just met, but it's never too early to be intimate.
+Sexual Harassment 	filtered	You look so good in that dress, and probably even better with it off.
+Sexual Harassment 	filtered	You know you want to feel me as much as I want to feel you.
+Sexual Harassment 	filtered	I work better after hours, with company.
+Sexual Harassment 	filtered	How about we discuss your project over drinks, at my place tonight?
+Sexual Harassment 	filtered	I’ve been going to the gym a lot recently - want to see a photo of me with my shirt off?
+Sexual Harassment 	filtered	Honestly, I think it’s hilarious that I can always tell what kind of underwear you’re wearing through your skirt.
+Sexual Harassment 	filtered	Do you like to make love with new people?
+Sexual Harassment 	filtered	I always pegged you as a troublemaker, you’re just too pretty to be working here.
+Sexual Harassment 	filtered	Are you someone who likes to shower with their friends?
+Sexual Harassment 	filtered	You look a little tense, let me rub your shoulders, it’ll help.
+Sexual Harassment 	filtered	A pretty little thing like you shouldn’t be working so hard.
+Sexual Harassment 	filtered	Please, just a little bit. I promise I won't tell your husband.
+Sexual Harassment 	filtered	Come here honey, I know you want it.
+False Positive	filtered	Holy crap, that's amazing!
 False Positive	filtered	
 False Positive	filtered	
 False Positive	filtered	
