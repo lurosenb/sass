@@ -2,3 +2,6 @@ api_key.txt
 gpt_key.txt
 
 .DS_Store
+
+data/openai_api/*.json
+data/perspective_api/*.json
