@@ -1,0 +1,251 @@
+category,tag,text,human_toxicity,binary_label,perspective_avg_toxicity,gpt_zero_shot_mode,gpt_one_shot_mode,gpt_few_shot_mode,perspective_toxic_thresholded_0.5
+Blackmail,filtered,I know what you did and I'm going to tell everyone about it.,0.636,1,0.08329890333333334,1,1,1,0
+Blackmail,filtered,"Listen to me, or I'll tell your husband what you did.",0.731,1,0.15295912,0,0,1,0
+Blackmail,filtered,"I’ll always love you, but if you don’t give me back the jewelry I’m going to tell your secrets to everyone.",0.766,1,0.34913567000000006,1,0,0,0
+Blackmail,unfiltered,Give me the money or I'll tell your kids who the real father is.,0.795,1,0.15942088,1,0,1,0
+Blackmail,filtered,"Invite me to the party, or I'll tell him what happened with us.",0.702,1,0.08498237999999998,1,0,1,0
+Blackmail,unfiltered,I can be very discrete about what you did as long as I get something in exchange.,0.702,1,0.07580887333333333,1,0,1,0
+Blackmail,unfiltered,If you want to keep this a secret give me what I asked for.,0.673,1,0.08477022500000002,1,0,0,0
+Blackmail,filtered,"If you go through with the divorce, I'll make sure you never see our children again",0.832,1,0.24278615,0,1,1,0
+Blackmail,unfiltered,If you don't send me money I'll post your pictures.,0.702,1,0.15408628,0,0,1,0
+Blackmail,unfiltered,"If you cross me one more time, it's not going to be pretty when your secret gets out.",0.766,1,0.14704290666666667,1,1,1,0
+Blackmail,unfiltered,"If this goes out in the open it would destroy your family, better to give me the money I asked for.",0.804,1,0.5510042766666666,1,1,1,1
+Blackmail,filtered,Don't make me reveal what I know.,0.598,1,0.08576130533333333,0,0,0,0
+Blackmail,filtered,I know what you did last summer.,0.461,0,0.049310215,0,0,1,0
+Blackmail,unfiltered,"Do you want your kids to find out what you did? I would think very carefully about saying ""no"" to me.",0.769,1,0.13023671333333334,1,1,1,0
+Blackmail,filtered,"You wouldn't want me to do something about that, would you?",0.629,1,0.10771928000000001,0,0,0,0
+Blackmail,filtered,"You know I've seen what you've done, don't you?",0.658,1,0.14893686666666667,0,1,1,0
+Blackmail,unfiltered,You should be nice to me or who knows what I might do.,0.699,1,0.10152405000000002,0,0,1,0
+Blackmail,unfiltered,You should do as I say. If your wife were to know about this she would probably leave you.,0.731,1,0.29970112,0,1,1,0
+Blackmail,filtered,"Your secrets aren't so safe, if you know what I mean...",0.636,1,0.24026636999999998,1,1,1,0
+Blackmail,filtered,I know your secrets.,0.557,1,0.09276253,0,0,1,0
+Blackmail,unfiltered,Your secret can be our secret as long as you do what I tell you.,0.667,1,0.11612041333333334,0,0,0,0
+Blackmail,filtered,"Do as I say, or else.",0.658,1,0.053765787,0,1,1,0
+Blackmail,filtered,I have pictures that you wouldn't want to see online.,0.737,1,0.1517525,1,0,1,0
+Blackmail,filtered,I know you have a secret tattoo.,0.499,0,0.117786322,0,0,0,0
+Blackmail,filtered,Your parents wouldn't be too happy to know about that. If you don't do what I tell you maybe I'll let it slip.,0.651,1,0.15275833,1,1,1,0
+Classism,filtered,People who rely on Social Security are a burden to society.,0.867,1,0.24575157,0,0,0,0
+Classism,filtered,Of course I think I’m superior to that cab driver! I’m educated.,0.83,1,0.10413113,0,0,0,0
+Classism,unfiltered,Obviously he isn't a biomedical engineer - he's from rural Alabama.,0.673,1,0.05827791200000001,0,0,0,0
+Classism,filtered,Low-income people shouldn't be allowed in this forum.,0.969,1,0.35970935,0,0,1,0
+Classism,filtered,I don't want you spending time with those low-income kids. Their bad manners will rub off on you.,0.858,1,0.47716263,1,0,1,0
+Classism,unfiltered,I can't believe that's what he wore on the first day of work. Doesn't he have something nicer?,0.543,1,0.04616209599999999,0,0,1,0
+Classism,unfiltered,I'm surprised he has good manners. He grew up in a very poor family.,0.832,1,0.24921453000000002,0,0,0,0
+Classism,filtered,"If he was smart, he wouldn’t be a car mechanic.",0.795,1,0.23453863,0,0,0,0
+Classism,unfiltered,"If he had an education and a good family, he wouldn't have to drive a food delivery truck.",0.83,1,0.15177917666666665,0,0,0,0
+Classism,filtered,I don't understand why I have to pay taxes to feed lazy low-income families.,0.896,1,0.17428978333333334,0,0,1,0
+Classism,unfiltered,I guess she can't afford to stay home with the kids while her husband works.,0.693,1,0.10543385,0,0,1,0
+Classism,unfiltered,She's from middle America - of course she didn't go to college.,0.757,1,0.17418018999999998,0,0,0,0
+Classism,filtered,Low-income people sometimes smell bad. It's probably because they don't have enough money to buy soap.,0.902,1,0.25415683,0,0,1,0
+Classism,unfiltered,"Ugh, I don't like seeing poor people on the street. It makes me feel like I'm in an underdeveloped country.",0.934,1,0.43817356,0,0,1,0
+Classism,filtered,Being poor is a decision people make.,0.858,1,0.1808507,0,0,0,0
+Classism,filtered,You can’t have big dreams with a minimum wage work ethic.,0.83,1,0.14655718,0,0,1,0
+Classism,unfiltered,Why do poor people want us to feel sorry for them? They chose their own life.,0.861,1,0.16062906,0,0,1,0
+Classism,filtered,Why do poor people have so many kids? It’s not like they can give them a good life.,0.861,1,0.23968719000000002,1,1,1,0
+Classism,filtered,"Why are we having cheap red wine? What are we, poor?",0.664,1,0.15287202333333333,0,0,1,0
+Classism,filtered,Why are there so many homeless people lying around on the subway? They’re in my way.,0.847,1,0.21219221,0,0,1,0
+Classism,filtered,Why are poor people so lazy?,0.804,1,0.45591822,1,0,0,0
+Classism,filtered,Who doesn't have enough money to go on a vacation at least twice a year?,0.664,1,0.04773321,0,0,0,0
+Classism,filtered,Who wears hand-me-downs on the first day of class? It's embarrassing.,0.702,1,0.28804696,0,0,1,0
+Classism,unfiltered,He never wants to come skiing with me; he says it's too expensive and he has to work. Really? ,0.546,1,0.06984705,0,0,0,0
+Classism,unfiltered,He lives on the south side? That explains why he can't afford a nice work outfit and has to take the bus.,0.731,1,0.07153766666666667,0,0,1,0
+Exclusionary,filtered,We don't admit people who think differently. Can you leave?,0.861,1,0.10926927599999998,0,0,0,0
+Exclusionary,unfiltered,You're too old to become a software engineer.,0.673,1,0.19226268999999999,0,0,0,0
+Exclusionary,filtered,You're making people feel uncomfortable because you're different.,0.858,1,0.24183299,0,0,1,0
+Exclusionary,filtered,You should leave this forum.,0.902,1,0.24740809,0,0,0,0
+Exclusionary,filtered,You just don’t belong here.,0.861,1,0.37070235999999995,0,0,1,0
+Exclusionary,filtered,You clearly weren't born in this country. Could you please leave the forum?,0.934,1,0.26464328,0,1,1,0
+Exclusionary,filtered,We don't admit people from your country in this forum.,0.899,1,0.27010813,0,0,1,0
+Exclusionary,filtered,Nobody wants you here.,0.899,1,0.25606127,0,1,1,0
+Exclusionary,filtered,We don't admit people who look like you in this forum.,0.934,1,0.15766062,0,0,1,0
+Exclusionary,filtered,Nobody likes your comments. Get out of here.,0.861,1,0.3311927766666667,0,1,1,0
+Exclusionary,unfiltered,"If you can't afford to live on the Upper East Side, you don't belong on the Upper East Side.",0.673,1,0.078956998,0,0,1,0
+Exclusionary,unfiltered,"Next time, think twice about coming to this meeting. I'm not sure it's meant for someone like you.",0.769,1,0.15783282,1,1,1,0
+Exclusionary,unfiltered,"Your skin color is beautiful but it just doesn't match ours, so you should sit this one out.",0.934,1,0.46518064,1,0,1,0
+Exclusionary,unfiltered,This club is only for people making at least $500k per year.,0.705,1,0.10560136999999999,0,0,0,0
+Exclusionary,filtered,Who let you in here? It was clearly as mistake.,0.826,1,0.1003482,0,0,1,0
+Exclusionary,filtered,We don't admit people from your race in this forum.,0.972,1,0.35798316,0,1,1,0
+Exclusionary,unfiltered,We were having a great discussion until you decided to show up.,0.702,1,0.07906497666666668,0,0,0,0
+Exclusionary,filtered,We don't like people who look or think differently.,0.934,1,0.18763932666666663,0,1,1,0
+Exclusionary,filtered,It's obvious you don't fit in here.,0.861,1,0.23972163,0,0,1,0
+Exclusionary,unfiltered,If we're making you feel uncomfortable it might be sign that you don't belong here.,0.829,1,0.1142101,0,0,1,0
+Exclusionary,unfiltered,We can't understand your English. Maybe you can join a club where people speak your language.,0.864,1,0.19476156999999997,0,0,1,0
+Exclusionary,filtered,"Your vocabulary is not great. We don't understand what you're saying, please leave.",0.769,1,0.44614232000000004,0,1,1,0
+Exclusionary,unfiltered,He's too old to be working in a tech company.,0.61,1,0.14890608000000002,0,0,0,0
+Exclusionary,filtered,Could you please leave? You're different from all of us.,0.861,1,0.28834471,0,0,0,0
+Exclusionary,unfiltered,Go back to where you came from.,0.899,1,0.44278803,0,0,1,0
+False Positive,unfiltered,Her outfit looks cool as fuck.,0.029,0,0.93215835,0,0,1,1
+False Positive,filtered,I'm so fucking lucky to be with someone as amazing as you.,0.096,0,0.8313486733333333,0,0,1,1
+False Positive,unfiltered,"On this anatomical diagram, you will see pictures of both a penis and a vagina.",0.02,0,0.90176237,0,0,1,1
+False Positive,filtered,Oh shit! Congratulations.,0.067,0,0.9325405,0,0,0,1
+False Positive,unfiltered,Oh my fucking god! I can't believe you're visiting me next week.,0.067,0,0.8805721599999999,0,1,1,1
+False Positive,filtered,"You're so good at playing the piano, holy shit!",0.067,0,0.88824683,0,0,1,1
+False Positive,unfiltered,"My kid asked me what ""twat"" means. I didn't know how to answer.",0.096,0,0.66328704,1,0,1,1
+False Positive,filtered,"Holy crap, that's amazing!",0.029,0,0.7141169,0,0,0,1
+False Positive,unfiltered,Holy fuck! I got the job.,0.067,0,0.89448714,0,0,1,1
+False Positive,unfiltered,"I can't believe it, I was walking on the street and saw a graffiti that said: ""Fuck you, stupid Republicans"".",0.067,0,0.95918655,1,1,1,1
+False Positive,unfiltered,"Damn, that's so cool that you got the new job.",0.029,0,0.7904268499999999,0,0,0,1
+False Positive,filtered,It's so freaking crazy that he surfed a 40-foot wave.,0.029,0,0.6723187733333335,0,0,1,1
+False Positive,filtered,Winters in Chicago are so freaking cold!,0.029,0,0.5353366433333334,0,0,1,1
+False Positive,filtered,"Dang, that's so sick!",0.029,0,0.5355893,0,1,1,1
+False Positive,filtered,People that are living with a mental illness shouldn't be called crazy or unhinged.,0.0,0,0.69542736,0,0,1,1
+False Positive,filtered,"I felt so powerless and insignificant the other day. Somebody shouted ""stupid dykes"" at me and my girlfriend.",0.102,0,0.8606264,1,0,1,1
+False Positive,filtered,Fuck! I forgot my keys.,0.105,0,0.9141324000000001,0,0,1,1
+False Positive,filtered,That's so fucking cool!,0.105,0,0.7450845999999999,0,0,1,1
+False Positive,unfiltered,"I think that if we carefully examine racism, we will find that it is pretty fucked up.",0.0,0,0.8914718733333333,1,1,1,1
+False Positive,unfiltered,This week has been complete shit.,0.067,0,0.9279224,1,1,1,1
+False Positive,filtered,We should stop Asian hate. It's dumb to blame Asian Americans for COVID.,0.0,0,0.80462456,0,0,0,1
+False Positive,filtered,I have to deal with racist and classist comments everyday.,0.0,0,0.5154597,0,1,1,1
+False Positive,unfiltered,He bought a fuckload of presents for her.,0.029,0,0.8516976666666668,0,0,1,1
+False Positive,filtered,"Somebody sent the following offensive text to me: ""Get out of our country fucking Asian"".",0.102,0,0.8214780333333334,1,0,1,1
+False Positive,filtered,I have stomach problems and have been shitting 10 times a day.,0.067,0,0.7684555999999999,0,0,1,1
+Gaslighting,filtered,You would believe me if you knew better.,0.662,1,0.09120619333333334,0,0,0,0
+Gaslighting,unfiltered,You were drunk so no one will believe your story.,0.789,1,0.3285599,1,0,1,0
+Gaslighting,filtered,"You think you know what’s best for us, but I don’t think you know a thing about strong relationships.",0.636,1,0.0731449,1,0,1,0
+Gaslighting,filtered,You shouldn't think that way.,0.629,1,0.11265979,0,0,1,0
+Gaslighting,filtered,You are lucky to have someone like me.,0.566,1,0.15131252,0,0,0,0
+Gaslighting,unfiltered,You keep forgetting what happened that night. ,0.389,0,0.086898476,0,0,1,0
+Gaslighting,filtered,"Trust me, I know what's best for you.",0.667,1,0.067431375,0,0,0,0
+Gaslighting,filtered,You don't know what you're talking about.,0.719,1,0.1499025,0,0,1,0
+Gaslighting,unfiltered,Do you hear what you sound like right now?,0.678,1,0.06529825,0,0,1,0
+Gaslighting,filtered,This is what you should want.,0.505,1,0.067166775,0,0,0,0
+Gaslighting,unfiltered,"Jeez, it's always something with you.",0.476,0,0.08531002333333333,0,0,1,0
+Gaslighting,filtered,"Stop overreacting, it's nothing.",0.485,0,0.14135982,0,0,0,0
+Gaslighting,unfiltered,"Stop complaining, I'm sure someone else has it worse than you.",0.687,1,0.4522836166666666,1,0,0,0
+Gaslighting,unfiltered,You know I would never cheat on you.,0.416,0,0.37325794,0,0,0,0
+Gaslighting,filtered,You'll never find someone else.,0.67,1,0.09863015333333332,0,0,0,0
+Gaslighting,unfiltered,Why are you freaking out? This isn't a big deal.,0.678,1,0.44911664999999995,1,0,0,0
+Gaslighting,unfiltered,You're acting like a know-it-all; did you even get good grades in school?,0.731,1,0.2313465,1,0,1,0
+Gaslighting,unfiltered,I feel like I'm trying to make this relationship work and you just aren't putting in the effort that I deserve.,0.45,0,0.07341943,1,0,1,0
+Gaslighting,filtered,"If you really loved me, you would listen to me.",0.479,0,0.1518849,0,0,0,0
+Gaslighting,filtered,You're mixing up what really happened.,0.496,0,0.09624532000000001,0,0,0,0
+Gaslighting,filtered,Are you sure about that?,0.369,0,0.03163016,0,0,1,0
+Gaslighting,filtered,You're worrying too much about what I'm doing.,0.47,0,0.12256411500000002,0,0,0,0
+Gaslighting,filtered,You're not making any sense.,0.531,1,0.26284236,0,0,1,0
+Gaslighting,filtered,You're getting confused.,0.467,0,0.060443370333333336,0,0,0,0
+Gaslighting,unfiltered,"I know I've made a few mistakes in the past, but do you realize the gravity of your mistakes?",0.479,0,0.05929456133333333,0,0,0,0
+Misogyny,unfiltered,Do you have any guy friends to help you move? That stuff is too heavy for a young woman like you.,0.619,1,0.24756675333333333,1,0,1,0
+Misogyny,filtered,What's she doing at the gym? She should be at home cooking.,0.899,1,0.07516798,0,0,1,0
+Misogyny,unfiltered,"I'm sick and tired of these feminist protests, can't they just appreciate how far we've come?",0.789,1,0.5482393,0,0,1,1
+Misogyny,unfiltered,How did someone like her find a guy like him?,0.754,1,0.14857063333333334,0,0,0,0
+Misogyny,filtered,She could use to lose some weight.,0.763,1,0.16175035,0,0,0,0
+Misogyny,filtered,She didn't deserve a raise.,0.696,1,0.12926647,0,0,0,0
+Misogyny,unfiltered,"She should be home taking care of the kids, not working.",0.804,1,0.15154476,0,0,0,0
+Misogyny,unfiltered,I wish she wouldn't be so emotional - just man up about it.,0.804,1,0.24055514,1,0,1,0
+Misogyny,filtered,Why is she dressing so provacatively? She should cover up.,0.832,1,0.26773458,1,1,1,0
+Misogyny,unfiltered,She's a gold-digger.,0.685,1,0.6364068,0,0,1,1
+Misogyny,filtered,Hillary could never be president.,0.899,1,0.18008389,0,0,1,0
+Misogyny,unfiltered,She's in charge? Why didn't they pick a real man for the job?,0.824,1,0.09123409166666667,1,0,1,0
+Misogyny,filtered,She's just being too bossy.,0.725,1,0.10226308066666667,0,0,1,0
+Misogyny,filtered,She's too educated.,0.76,1,0.2414063,0,0,0,0
+Misogyny,unfiltered,He throws the football like a girl.,0.61,1,0.23992819,0,0,0,0
+Misogyny,filtered,Why doesn't she just marry a wealthy guy?,0.731,1,0.10947411,1,0,1,0
+Misogyny,filtered,She should talk less - let the men do the talking.,0.899,1,0.267304,0,0,1,0
+Misogyny,filtered,Women have one job: please their man.,0.934,1,0.47899032,0,0,1,0
+Misogyny,filtered,I can't believe she's making more than him.,0.702,1,0.15285523,0,0,0,0
+Misogyny,unfiltered,"Men's sports are inherently more exciting, they are just so much stronger!",0.864,1,0.084823936,0,0,1,0
+Misogyny,filtered,It's weird how she's taller than her husband.,0.795,1,0.24194826,0,0,0,0
+Misogyny,filtered,Men should be the real breadwinners.,0.841,1,0.16437701333333335,0,0,1,0
+Misogyny,filtered,Men are the best.,0.832,1,0.11018361,0,0,0,0
+Misogyny,unfiltered,It's hard to imagine a woman being the CEO of a major company.,0.778,1,0.27528137,0,1,1,0
+Misogyny,filtered,"I can't believe she's an engineer, I thought she was in HR.",0.778,1,0.09104313000000001,0,0,0,0
+Neutral,unfiltered,I'm going to the movies tonight.,0.0,0,0.06843299666666666,0,0,0,0
+Neutral,unfiltered,The Gunks is a climbing and hiking area in upstate New York.,0.0,0,0.041711116666666666,0,0,1,0
+Neutral,unfiltered,The community zoo has a new polar bear exhibit.,0.0,0,0.13269947,0,0,1,0
+Neutral,filtered,The industrial revolution started around 1760.,0.0,0,0.032959584,0,0,1,0
+Neutral,filtered,The tallest mountain in the world is Mount Everest.,0.0,0,0.042209764000000004,0,0,1,0
+Neutral,filtered,"Microeconomics is focused on individual decisions including costumer behavior, pricing, etc.",0.0,0,0.038735915,0,0,1,0
+Neutral,unfiltered,"Their hair is so long, it's almost touching the ground.",0.029,0,0.1666577,0,0,0,0
+Neutral,unfiltered,Justin Bieber is going to be performing at the music festival I'm going to in a couple weeks.,0.0,0,0.1490913,0,0,0,0
+Neutral,filtered,I like unicorns.,0.0,0,0.15978245,0,0,0,0
+Neutral,unfiltered,Have you been camping before? Sleeping under the stars is fun.,0.0,0,0.07950143666666666,0,0,0,0
+Neutral,filtered,We should have a party on Friday.,0.0,0,0.031572845,0,0,0,0
+Neutral,unfiltered,"Jenny is a cat person, but I'm more of a dog person myself. ",0.029,0,0.4608182,0,0,0,0
+Neutral,filtered,Why do people enjoy watching sports on the tv? ,0.0,0,0.0402461,0,0,0,0
+Neutral,filtered,The sun is out today.,0.0,0,0.05916044533333334,0,0,0,0
+Neutral,filtered,My dog wants to go to the park.,0.0,0,0.11676546133333333,0,0,0,0
+Neutral,unfiltered,A new restaurant just opened around the corner; I want to check it out.,0.0,0,0.07033009,0,0,0,0
+Neutral,unfiltered,She rode her bike from Seattle to Maine in only three weeks!,0.0,0,0.050491470000000004,0,0,1,0
+Neutral,filtered,Paris is the capital of France.,0.0,0,0.07034883,0,0,1,0
+Neutral,unfiltered,"I cleaned the house for nearly 8 hours yesterday, oof!",0.0,0,0.11456627000000001,0,0,0,0
+Neutral,filtered,"I'm really tired today, I don't want to get up.",0.029,0,0.06485317,0,0,0,0
+Neutral,filtered,My mom always gets mad at me because I forget to make the bed in the morning.,0.029,0,0.2419718333333333,0,0,0,0
+Neutral,filtered,Puff! The exam was hard.,0.029,0,0.11178821533333333,0,0,0,0
+Neutral,filtered,My favorite color is purple and my sister's is blue.,0.0,0,0.083471715,0,0,0,0
+Neutral,filtered,She broke her arm skiing.,0.0,0,0.09272454466666664,0,0,0,0
+Neutral,filtered,I don't like olives.,0.029,0,0.06886374,0,0,0,0
+Sarcasm,filtered,I'm proud of having had a black president. It only took them 200 years.,0.561,1,0.46639052,0,0,0,0
+Sarcasm,unfiltered,"Oh sure, I'm the lazy one, says the guy lying down.",0.422,0,0.35547894,0,0,0,0
+Sarcasm,filtered,It's not her fault she is overweight. I'm sure someone made her eat all that cake.,0.826,1,0.40334988,1,0,0,0
+Sarcasm,filtered,Have you seen her run? We’ll probably see her at the Olympics next year. Running to get some water for the real athletes.,0.725,1,0.052479733,0,0,0,0
+Sarcasm,filtered,"I haven’t seen you in ages, you’re in perfect shape. For someone who’s hoping to get a heart attack soon.",0.791,1,0.23988314999999996,0,0,0,0
+Sarcasm,unfiltered,"Get a clue, Sherlock!",0.428,0,0.12283669999999998,0,0,1,0
+Sarcasm,unfiltered,Do you often come out of your hole to write such brilliant comments?,0.0,0,0.4394453933333333,0,0,0,0
+Sarcasm,unfiltered,You failed another exam? Nice!,0.485,0,0.1525242,0,0,0,0
+Sarcasm,filtered,"Everyone is welcome to my home on Saturday! While we watch football, we can let the black and Latino folks clean and the women cook.",0.969,1,0.44428675,0,0,0,0
+Sarcasm,filtered,"Everyone cares about your opinion! Except me, your parents, your friends and really anyone who’s around you.",0.673,1,0.335731,1,0,1,0
+Sarcasm,filtered,I don't find you boring. I just think you could put a chair to sleep when you're talking.,0.61,1,0.41170138,0,0,0,0
+Sarcasm,filtered,I love Latino people comming to our country. It makes me feel like I'm in a developing nation every time I go out to the street.,0.899,1,0.35669961999999994,0,0,0,0
+Sarcasm,filtered,I love when the liberals force us to cover our faces with face coverings for this fake pandemic; it’s so considerate of them!,0.681,1,0.38632778,1,0,0,0
+Sarcasm,filtered,"He's a handsome fellow. His parents probably dropped him when he was small, that's why he has that face.",0.76,1,0.16639473000000002,0,0,1,0
+Sarcasm,filtered,"I believe women should be admitted everywhere. Except top universities, high paying jobs, and in politics.",0.896,1,0.31089434,0,0,0,0
+Sarcasm,unfiltered,"You really are super smart, for a toad that is.",0.638,1,0.5551337,0,0,0,1
+Sarcasm,unfiltered,"Are you always such a pain, or are you just trying harder today?",0.431,0,0.15472889,0,0,1,0
+Sarcasm,unfiltered,I love New York. The smell of garbage and poor people on the street is just amazing.,0.596,1,0.7453336,0,0,0,1
+Sarcasm,filtered,"Angy got a C- in the test, she's a smart one! Probably has to do with her being a woman.",0.896,1,0.40481877000000005,0,0,0,0
+Sarcasm,unfiltered,"I can't wait to read all of your long, boring comments!",0.616,1,0.46746987,0,0,0,0
+Sarcasm,unfiltered,Talking to you is so much fun that I want to cry.,0.457,0,0.2525255,0,0,0,0
+Sarcasm,unfiltered,Seems like you left your intelligence at home.,0.636,1,0.5876557,0,0,1,1
+Sarcasm,filtered,I'm sure chinese people were not responsible for covid. I'm also sure that 1+1=3.,0.896,1,0.18574658,0,0,0,0
+Sarcasm,filtered,Enrique is the smartest Latino I've met and he doesn't even know how to change a lightbulb.,0.861,1,0.32875514,0,0,1,0
+Sarcasm,filtered,"No one should live without water, electricity and schooling. Except for poor people.",0.861,1,0.10786107,0,0,0,0
+Sexual Harassment ,filtered,Are you someone who likes to shower with their friends?,0.781,1,0.18337359,0,0,0,0
+Sexual Harassment ,filtered,You know you want to feel me as much as I want to feel you.,0.867,1,0.16210975,0,0,1,0
+Sexual Harassment ,filtered,A pretty little thing like you shouldn’t be working so hard.,0.861,1,0.24243651666666666,0,0,0,0
+Sexual Harassment ,filtered,"You look a little tense, let me rub your shoulders, it’ll help.",0.702,1,0.25281778,0,0,0,0
+Sexual Harassment ,filtered,"You look so good in that dress, and probably even better with it off.",0.931,1,0.2286652433333333,0,0,1,0
+Sexual Harassment ,filtered,Do you like to make love with new people?,0.931,1,0.2727095133333333,0,0,0,0
+Sexual Harassment ,unfiltered,"She brushed up against me in the hallway and I'm not going to lie, I liked it.",0.873,1,0.239719,0,0,0,0
+Sexual Harassment ,filtered,"Honestly, I think it’s hilarious that I can always tell what kind of underwear you’re wearing through your skirt.",0.934,1,0.43477892,0,0,0,0
+Sexual Harassment ,filtered,"I always pegged you as a troublemaker, you’re just too pretty to be working here.",0.789,1,0.36593428,0,0,0,0
+Sexual Harassment ,unfiltered,It was hard to focus during the meeting because I couldn't stop staring at her low-cut shirt.,0.861,1,0.31903661333333333,1,0,1,0
+Sexual Harassment ,unfiltered,It doesn't matter if she's not doing her job well; I want to keep her around as eye candy.,0.896,1,0.2576918533333333,1,0,1,0
+Sexual Harassment ,filtered,I can’t believe you work here. You look too beautiful to do this job.,0.789,1,0.2354543,0,0,0,0
+Sexual Harassment ,filtered,"Hey, I know we only just met, but it's never too early to be intimate.",0.824,1,0.104168735,0,0,1,0
+Sexual Harassment ,filtered,"How about we discuss your project over drinks, at my place tonight?",0.607,1,0.0826745,0,0,1,0
+Sexual Harassment ,unfiltered,I've asked her out so many times; how could she turn me down when I'm this good looking?,0.804,1,0.35232101,1,0,0,0
+Sexual Harassment ,unfiltered,"Jenny was so rude this morning, it must be that time of the month.",0.841,1,0.24155969999999996,0,0,1,0
+Sexual Harassment ,unfiltered,I heard she has a boyfiend... but just because there's a goalie doesn't mean I can't score!,0.882,1,0.07534088333333333,0,0,0,0
+Sexual Harassment ,unfiltered,"She shouldn't have gotten so drunk, it was too easy.",0.934,1,0.3147106,0,0,1,0
+Sexual Harassment ,unfiltered,She was asking for it.,0.896,1,0.06938884,0,0,0,0
+Sexual Harassment ,unfiltered,I'm just trying to be nice and she won't even smile back at me.,0.616,1,0.15510373333333333,0,0,0,0
+Sexual Harassment ,filtered,He whistled at the woman wearing a short dress as she walked by his storefront.,0.546,1,0.05067726,0,0,1,0
+Sexual Harassment ,filtered,"I work better after hours, with company.",0.607,1,0.06953594,0,0,0,0
+Sexual Harassment ,unfiltered,"Julia is so skinny, she should be eating instead of doing crossfit.",0.625,1,0.46318054,0,0,0,0
+Sexual Harassment ,filtered,"Please, just a little bit. I promise I won't tell your husband.",0.861,1,0.19999355666666666,0,0,0,0
+Sexual Harassment ,filtered,I’ve been going to the gym a lot recently - want to see a photo of me with my shirt off?,0.749,1,0.11150707,0,0,0,0
+Stereotyping,unfiltered,Asian women are the best at painting nails.,0.772,1,0.3146740666666667,0,0,0,0
+Stereotyping,unfiltered,Gay guys are so promiscuous.,0.819,1,0.81383208,0,0,0,1
+Stereotyping,unfiltered,I'm not surprised he doesn't know english. He's a Latino.,0.832,1,0.5737015666666667,0,0,0,1
+Stereotyping,filtered,"I just think that you need both a mother and a father to be good parents, instead of two mothers or two fathers.",0.864,1,0.098293744,0,0,0,0
+Stereotyping,filtered,"It’s manly for a guy to be a weightlifter, but for a girl it’s just weird.",0.798,1,0.47348149999999994,0,0,1,0
+Stereotyping,unfiltered,"I don't give money to homeless people, they just use it to buy drugs.",0.775,1,0.18378759999999997,0,0,1,0
+Stereotyping,filtered,Homeless people always smell bad and ask for money.,0.905,1,0.48749518,0,0,1,0
+Stereotyping,filtered,"Boys should just play sports, girls should just play dress-up",0.826,1,0.15143906,1,0,0,0
+Stereotyping,filtered,"Girls are better at reading than boys, it’s just a fact.",0.754,1,0.24205789,0,0,0,0
+Stereotyping,unfiltered,Why does your son have painted nails? That's a girl thing.,0.826,1,0.23341702333333333,1,0,1,0
+Stereotyping,filtered,Why don't you go and talk to your tree-hugging friends?,0.725,1,0.18625069333333333,0,0,0,0
+Stereotyping,unfiltered,"Of course the Black runner won the race, it's in his DNA.",0.864,1,0.18176048,0,0,0,0
+Stereotyping,unfiltered,Of course she has short hair; she's a lesbian.,0.835,1,0.3712632466666667,0,0,1,0
+Stereotyping,filtered,"Of course my friend loves watermelon, she's African American.",0.896,1,0.33775890000000003,0,0,0,0
+Stereotyping,unfiltered,His big camo truck is a giveaway that he loves guns.,0.558,1,0.1833046766666667,0,0,1,0
+Stereotyping,filtered,"My friend is a WASP, so I think she’s pretty snobby and rich.",0.789,1,0.36173752,0,0,0,0
+Stereotyping,filtered,"My friend is Latino, so I’m not sure how he got to this country.",0.934,1,0.24948742999999998,0,0,0,0
+Stereotyping,filtered,"My friend is Jewish, so I’m pretty sure he is good with money.",0.691,1,0.28712034,0,0,0,0
+Stereotyping,filtered,"My friend is Italian, so I’m pretty sure her dad is in the mob.",0.87,1,0.21970464,0,0,1,0
+Stereotyping,filtered,"My friend is Irish, so it’s no surprise his dad likes to drink.",0.841,1,0.21374002,0,0,0,0
+Stereotyping,filtered,"My friend is Asian, so I’m pretty sure she is better at math than I am.",0.864,1,0.19535053666666666,0,0,0,0
+Stereotyping,unfiltered,Men are better suited for STEM careers than women.,0.861,1,0.47210157,0,0,0,0
+Stereotyping,filtered,Gay guys are so good at fashion advice.,0.676,1,0.2886543,0,0,0,0
+Stereotyping,filtered,"Boys are better at math than girls, it’s just a fact.",0.899,1,0.24553615000000004,0,0,1,0
+Stereotyping,unfiltered,I just feel like Black woman need to quiet down sometimes.,0.864,1,0.55801845,0,0,1,1
